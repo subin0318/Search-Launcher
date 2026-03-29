@@ -4,7 +4,7 @@ dist/
 **/__pycache__/
 *.pyc
 *.pyo
-
+파이썬프로그램다운*
 
 # 특정 파일
 *.txt
