@@ -1,7 +1,8 @@
 # 빌드 결과물
 build/
 dist/
-*.spec
+파이썬프로그램다운
+파이썬프로그램다운*
 
 # 파이썬 캐시
 __pycache__/
@@ -21,5 +22,3 @@ env/
 *.log
 tempCodeRunnerFile.py
 
-# 특정 파일 (파이썬 프로그램 다운 관련)
-파이썬*
