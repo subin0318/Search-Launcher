@@ -30,4 +30,8 @@ env/
 
 # 기타
 *.log
+# spec 파일
+*.spec
+
+# vscode 임시파일
 tempCodeRunnerFile.py
